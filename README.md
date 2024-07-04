@@ -9,7 +9,7 @@ and contribute to the success of their projects.
    
 ### Social media: 📡    
 
-[![Whatsapp](https://img.shields.io/badge/whatsapp-67ec37?style=for-the-badge&logo=whatsapp&logoColor=white)]((https://wa.me/5543999510624))
+[![Whatsapp](https://img.shields.io/badge/whatsapp-67ec37?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543999510624)
 
 ## Languages and Tools 
 <div>
