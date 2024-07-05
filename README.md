@@ -11,10 +11,10 @@ and contribute to the success of their projects.
 
 [![Whatsapp](https://img.shields.io/badge/whatsapp-67ec37?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543999510624)
 
-## Languages and Tools 
+
 <div>
 
-### Languages:
+## Languages:
 
 <img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript">
 <img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node">
