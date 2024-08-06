@@ -15,11 +15,11 @@ and contribute to the success of their projects.
 
 ## Languages:
 <div align="center" style="display: flex; justify-content: center;">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg"  alt="Node" style="padding:5px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg"  alt="Node" style="padding:5px" width="100" height="100">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" style="padding:5px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" style="padding:5px" width="100" height="100">
 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  alt="PHP" style="padding:5px">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  alt="PHP" style="padding:5px" width="100" height="100">
 
 </div>
 
