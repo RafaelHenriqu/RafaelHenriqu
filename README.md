@@ -1,10 +1,12 @@
 # RafaelHenriqu 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RafaelHenriqu&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](#)
 ### About Me:
+<p style="font-family:sans-serif;">
 Hello My name is Rafael
 i am 18 years old and wish I could help you(a) with your projects. Using my skills and knowledge
 i can offer efficient and creative solutions. I am available to discuss your needs
 and contribute to the success of their projects.
+</p>
    
 ### Social media: 📡    
 
