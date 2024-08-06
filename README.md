@@ -1,5 +1,4 @@
-# RafaelHenriqu
- 
+# RafaelHenriqu 
 [![trophy](https://github-profile-trophy.vercel.app/?username=RafaelHenriqu&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](#)
 ### About Me:
 Hello My name is Rafael
@@ -12,20 +11,16 @@ and contribute to the success of their projects.
 [![Whatsapp](https://img.shields.io/badge/whatsapp-67ec37?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5543999510624)
 
 
-<div>
+
 
 ## Languages:
+<div align="center" style="display: flex; justify-content: center;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-line.svg"  alt="Node" style="padding:5px">
 
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" alt="Lua">
-<img width="55" height="55" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React">
- 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  alt="Python" style="padding:5px">
+
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"  alt="PHP" style="padding:5px">
+
 </div>
 
 ---
@@ -51,5 +46,4 @@ and contribute to the success of their projects.
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=RafaelHenriqu&style=for-the-badge&color=orange" alt=""/>
 </div>
-
 
