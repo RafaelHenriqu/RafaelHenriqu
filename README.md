@@ -2,18 +2,18 @@
 
 ## Sobre Mim
 
-#### Olá meu nome é Rafael
-#### tenho 19 anos e gostaria de poder ajudar vocês em seus projetos.
+### Olá meu nome é Rafael
+### tenho 19 anos e gostaria de poder ajudar vocês em seus projetos.
 
-<div align="left">  
+<div align="center">  
 
-* [Conhecimentos](Conhecimentos.md)
+[Conhecimentos](Conhecimentos.md)
 
-* [Rede Sociais](Rede_Sociais.md)
+[Rede Sociais](Rede_Sociais.md)
 
-* [Projetos](Projetos.md)
+[Projetos](Projetos.md)
 
-* [Extra](Bonus.md)
+[Extra](Bonus.md)
 
 </div>
 

@@ -27,6 +27,10 @@
 
   <img  src="Imgs/nodejs-original.svg"  alt="Node" style="padding:5px" width="100" height="100">
 
+  <img  src="Imgs/html5-plain-wordmark.svg"  alt="HTML" style="padding:5px" width="100" height="100">
+
+  <img  src="Imgs/css3-plain-wordmark.svg"  alt="CSS" style="padding:5px" width="100" height="100">
+
 
 
   </div>
@@ -45,3 +49,5 @@
 
 
   Todas as Imagens Usada foram pegas em:  https://iconscout.com, https://github.com/devicons/devicon/tree/master
+
+# Apenas Foram adicionados os principais para dar uma estética boa, se quiser ver os outros Entre aqui [Extra](Bonus.md)
