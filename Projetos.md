@@ -9,7 +9,7 @@ Aqui listarei os meus projetos mais completos.
 
 * [Click-Color](https://github.com/RafaelHenriqu/Click-Color)
 
-* [Card-memomry](https://github.com/RafaelHenriqu/Card-memomry)
+* [Card-memory](https://github.com/RafaelHenriqu/Card-memomry)
 
 
 Os Projetos Descontinuados ainda recebem Update.
