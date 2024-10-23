@@ -1,6 +1,6 @@
 <h1 align="center">Rede Sociais</h1>
 
-<div align="center" style="display: flex; justify-content: center;">
+<div align="center" style="display: inline-flex; justify-content: center;">
  
 
 [<img title="Discord" src="Imgs/discord.svg" alt="Discord"  width="100" height="100">](#)
