@@ -4,7 +4,7 @@
 
   <div align="center" style="display: flex; justify-content: center;">
 
-[<img title="Python" src="Imgs/python.svg"  alt="Python" style="padding:5px" width="100" height="100">](#competências)
+  <img title="Python" src="Imgs/python.svg"  alt="Python" style="padding:5px" width="100" height="100">
 
   <img title="JavaScript" src="Imgs/javascript.svg"  alt="JavaScript" style="padding:5px" width="100" height="100">
 
