@@ -1,11 +1,14 @@
 <div align="center">
 
-## Sobre Mim
+## Sobre Mim 
+
 
 ### Olá meu nome é Rafael
 ### tenho 19 anos e gostaria de poder ajudar vocês em seus projetos.
 
-<div align="center">  
+<div align="center" style="background: #222; border-radius: 10px;">  
+
+
 
 [Conhecimentos](Conhecimentos.md)
 
@@ -37,4 +40,3 @@
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=RafaelHenriqu&style=for-the-badge&color=orange" alt=""/>
 </div>
-
