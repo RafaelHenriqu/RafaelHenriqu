@@ -1,17 +1,12 @@
-# Rede Sociais
+<h1 align="center">Rede Sociais</h1>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center;">
  
- ## Discord
 
-<a href="#" title="Discord" ><img src="Imgs/discord.svg" alt="Discord"  width="100" height="100"></a>
+[<img title="Discord" src="Imgs/discord.svg" alt="Discord"  width="100" height="100">](#)
 
- ## Whatsapp
+[<img title="WhatsApp" src="Imgs/WhatsApp.svg" alt="WhatsApp"  width="100" height="100">](https://wa.me/5543999510624)
 
-<a href="https://wa.me/5543999510624" title="WhatsApp" ><img src="Imgs/WhatsApp.svg" alt="WhatsApp"  width="100" height="100"></a>
+ [<img title="Linkedin" src="Imgs/LinkedIn_icon.svg" alt="Linkedin"  width="100" height="100">](https://www.linkedin.com/in/rafael-henrique-7b109a265/)
 
- ## Linkedin
-
-<a href="https://www.linkedin.com/in/rafael-henrique-7b109a265/" title="Linkedin" ><img src="Imgs/LinkedIn_icon.svg" alt="Linkedin"  width="100" height="100"></a>
-
-  </div>
+</div>
