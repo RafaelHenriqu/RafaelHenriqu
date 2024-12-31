@@ -2,7 +2,7 @@
 
 ## Linguagens de programação
 
-  <div  style="display: flex; align-items: center; justify-content: center;">
+  <div  align="center" style="display: flex; justify-content: center;">
 
   <img title="Python" src="Imgs/python.svg"  alt="Python" style="padding:5px" width="100" height="100">
 
