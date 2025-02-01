@@ -1,8 +1,8 @@
 # Projetos
 Aqui listarei os meus projetos mais completos.
 
-* [GRKaty](https://github.com/RafaelHenriqu/GRKaty)
+* [Universal Code](https://github.com/RafaelHenriqu/Universal-Code)
 
-* [GRKaty-themes](https://github.com/RafaelHenriqu/GRKaty-themes)
+* [Universal themes](https://github.com/RafaelHenriqu/Universal-Theme)
 
 * [Money-Converter](https://github.com/RafaelHenriqu/Money-Converter)
