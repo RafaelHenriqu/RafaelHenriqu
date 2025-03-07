@@ -7,4 +7,4 @@ Aqui listarei os meus projetos mais completos.
 
 * [Universal Theme](https://github.com/RafaelHenriqu/Universal-Theme)
 
-* [Memory Game]https://github.com/RafaelHenriqu/Memory-game
+* [Memory Game](https://github.com/RafaelHenriqu/Memory-game)
