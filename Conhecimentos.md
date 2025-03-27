@@ -8,6 +8,7 @@
 
   <img title="JavaScript" src="Imgs/javascript.svg"  alt="JavaScript" style="padding:5px" width="100" height="100">
 
+   <img title="C#" src="Imgs/csharp.svg"  alt="C#" style="padding:5px" width="100" height="100">
 
 
   </div>
