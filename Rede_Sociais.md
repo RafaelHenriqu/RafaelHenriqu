@@ -3,11 +3,7 @@
   <div  align="center" style="display: flex; justify-content: center;">
 <a href="https://wa.me/5543999510624"><img title="WhatsApp" src="Imgs/WhatsApp.svg"  alt="WhatsApp" style="padding:5px" width="100" height="100"></a>
 
-
-
-<a href="https://www.linkedin.com/in/rafael-h-7b109a265/"><img title="Linkedin" src="Imgs/LinkedIn_icon.svg"  alt="Linkedin" style="padding:5px" width="100" height="100"></a>
-
-  </div>
+</div>
 
 
 
