@@ -11,6 +11,6 @@ Aqui listarei os meus projetos mais completos.
 
 * [Minecraft Tick Converter](https://github.com/RafaelHenriqu/Minecraft_Tick_Converter-MTC)
 
-* [Time-Now](https://github.com/RafaelHenriqu/Time-now)
+* [Time Now](https://github.com/RafaelHenriqu/Time-now)
 
 * [Portfólio](https://rafaelhenriqu.github.io/Portfolio/)

@@ -25,22 +25,5 @@
 
 # Status
 
-
-  <div align="center" style="display: flex; justify-content: center; background: black; border-radius: 10px;">
-  
-  <img width="500" height="100" src="https://streak-stats.demolab.com?user=RafaelHenriqu&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-  
-  </div>
-
-
-# Troféus
-
-  <div align="center" style="display: flex; justify-content: right; ">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=RafaelHenriqu&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=onedark)](#)
-
-  </div>
-
-
-
+<img width="500" height="100" src="https://streak-stats.demolab.com?user=RafaelHenriqu&theme=tokyonight&hide_border=true&border_radius=5&card_width=800">
   
