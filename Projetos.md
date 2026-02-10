@@ -14,3 +14,5 @@ Aqui listarei os meus projetos mais completos.
 * [Time Now](https://github.com/RafaelHenriqu/Time-now)
 
 * [Portfólio](https://rafaelhenriqu.github.io/Portfolio/)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelHenriqu&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=600&card_height=200)](https://git.io/streak-stats)
