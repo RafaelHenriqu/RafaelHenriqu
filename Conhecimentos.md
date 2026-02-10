@@ -49,11 +49,12 @@
 
 # Aviso
 ````
-Apenas Foram adicionados os principais para dar uma estética boa
+Apenas foram adicionados os principais para dar uma estética boa.
 ````
 <hr> 
 
-  * se quiser ver os outros Entre aqui [Extras](Bonus.md)
-  * Todas as Imagens Usada foram pegas em:  https://iconscout.com, https://github.com/devicons/devicon/tree/master 
-
-  
+### Se quiser ver mais, acesse aqui
+* [Extras](Bonus.md)
+###  Todas as imagens usadas foram pegas em: 
+* [Iconscout](https://iconscout.com)
+* [Devicons](https://github.com/devicons/devicon/tree/master)

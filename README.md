@@ -1,7 +1,7 @@
 <div align="center">
 
 ## Sobre Mim 
-### Olá meu nome é Rafael
+### 🌐Olá meu nome é Rafael
 ### tenho 20 anos e gostaria de poder ajudar vocês em seus projetos.
 
 <div align="center" style="border-radius: 10px;">  
@@ -16,17 +16,8 @@
 
 [Extra](Bonus.md)
 
-</div>
-<br>
-<h2>Status</h2>
-
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=RafaelHenriqu&show_icons=true&theme=tokyonight">
-
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelHenriqu&size_weight=0.0005&count_weight=0.3&layout=compact&theme=tokyonight">
-
-</div>
-<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=RafaelHenriqu&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=600&card_height=200)](https://git.io/streak-stats)
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaelHenriqu&style=for-the-badge&color=red" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=RafaelHenriqu&style=for-the-badge&color=blue" alt=""/>
 </div>
