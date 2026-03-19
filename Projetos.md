@@ -15,4 +15,7 @@ Aqui listarei os meus projetos mais completos.
 
 * [Portfólio](https://rafaelhenriqu.github.io/Portfolio/)
 
+<h1 style="display: flex; align-items: center; justify-content: center;">
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=RafaelHenriqu&hide_border=true&border_radius=5&locale=pt_BR&short_numbers=true&card_width=600&card_height=200)](https://git.io/streak-stats)
+ <h1/>

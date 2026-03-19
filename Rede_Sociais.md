@@ -1,5 +1,1 @@
-<h1 align="center">Rede Sociais</h1>EM BREVE<div>
-
-
-
- 
+<h1 style="display: flex; align-items: center; justify-content: center;"><img title="WhatsApp" src="Imgs/WhatsApp.svg"  alt="WhatsApp" style="padding:5px" width="64" height="64"> +55 43 99665-4159<h1/>
