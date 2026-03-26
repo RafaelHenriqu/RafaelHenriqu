@@ -1,4 +1,4 @@
-# 🧔🏽‍♂️ Rafael Henrique
+#  Rafael Henrique
 
 **`Desenvolvedora BackEnd`**
 
@@ -123,7 +123,7 @@ Me chamo Rafael Henrique, tenho 20 anos e sou natural do Paraná e gostaria de p
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="200"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=RafaelHenriqu&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
