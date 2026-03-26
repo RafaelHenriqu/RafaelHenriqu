@@ -1,4 +1,4 @@
-# 🧔🏽‍♂️ Rafael Henrique
+# 🧔 Rafael Henrique
 
 **`Desenvolvedora BackEnd`**
 
